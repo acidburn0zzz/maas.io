@@ -20,7 +20,7 @@
   "author": "Canonical webteam",
   "license": "LGPL v3",
   "devDependencies": {
-    "node-sass": "4.14.1",
+    "node-sass": "7.0.0",
     "stylelint": "13.6.0",
     "stylelint-config-standard": "20.0.0",
     "stylelint-order": "4.1.0",
